@@ -2,7 +2,7 @@
 A passionate Self-taught Front-end developer<br>Playing CTF's at spare time<br>Currently learning Web Development by Self<br>Personal website link<br>I’m currently open for an Intern or a new job opportunity, this is my resume
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vedant_bisht) 
 
 # 💻 Tech Stack:
